@@ -1,2 +1,2 @@
 # primadiabetes
-Diyabet veri seti ve kodları
+Diyabet veri seti ve sınıflandırma 
